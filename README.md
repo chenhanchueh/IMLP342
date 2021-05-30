@@ -1,3 +1,3 @@
 # IMLP342
 
-# Today is 2021/5/7.
+# I can not open my Jupyter Notebook even when I reinstalled Anaconda. So I have done my homework with Google Colaboratory and put them in the ".ipynb_checkpoints" folder.
